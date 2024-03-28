@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Pinkn\\Downloads\\json-simple-1.1.1.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.base.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.controls.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.media.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.swing.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx.web.jar",
+        "c:\\Users\\Pinkn\\Desktop\\javafx-sdk-22\\lib\\javafx-swt.jar"
+    ],
+    "editor.cursorStyle": "line-thin"
+}
